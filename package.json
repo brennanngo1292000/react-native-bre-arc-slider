@@ -1,0 +1,26 @@
+{
+  "name": "react-native-bre-arc-slider",
+  "version": "1.0.0",
+  "description": "The missing React Native Bre ARC Slider by brennan ngo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brennanngo1292000/react-native-bre-arc-slider.git"
+  },
+  "keywords": [
+    "react-native-svg",
+    "react-native-slider",
+    "react-native-arc-slider",
+    "slider",
+    "arc-slider"
+  ],
+  "author": "brennanngo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brennanngo1292000/react-native-bre-arc-slider/issues"
+  },
+  "homepage": "https://github.com/brennanngo1292000/react-native-bre-arc-slider#readme"
+}
